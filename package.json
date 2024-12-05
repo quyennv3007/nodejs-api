@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "quyennv2 dev nodejs",
+  "main": "src/server.js",
+  "author": "quyennv2",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
